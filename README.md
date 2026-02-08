@@ -1,4 +1,4 @@
-# Population_analysis_pl
+# Population_stats
 Author: WojtaS52
 The analysis and the report were written in Polish Language.
 
